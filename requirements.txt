@@ -4,3 +4,5 @@ seaborn
 matplotlib
 scikit-learn==1.5.0
 jupyter
+joblib==1.4.2
+streamlit==1.36.0
