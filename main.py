@@ -1,6 +1,7 @@
 from src.data_preprocessing import load_data, preprocess_data
 from src.model_training import train_model, evaluate_model
 
+
 # Load the data
 data_file_path = 'data/winequality-red.csv'
 data = load_data(data_file_path)
