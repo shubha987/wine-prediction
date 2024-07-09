@@ -39,4 +39,4 @@ To run this project locally, follow these steps:
     cd wine-quality-prediction
     jupyter notebook notebooks/EDA.ipynb
     python main.py
-
+    ```
